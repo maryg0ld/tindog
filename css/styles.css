@@ -172,6 +172,10 @@ p {
   #title {
     text-align: center;
   }
+  
+  #titelcontainer {
+    text-align: center;
+  }
 
   .title-image {
     position: static;
